@@ -1,12 +1,3 @@
-# Social Slides
+# Aygit.org Comming Soon
 
----
-
-### Code by [Eduard Mayer](http://twitter.com/vsxed/)
-### Design by [@calebbritton](http://drbl.in/gWdz)
-
----
-
-### Compatability
-
-Built-in Fallbacks, Chrome renders a pure css-background
+yakında sayfası tasarımı.
